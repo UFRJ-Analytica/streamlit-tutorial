@@ -1,0 +1,7 @@
+streamlit
+fastparquet
+pandas
+numpy
+plotly
+matplotlib
+pydeck
